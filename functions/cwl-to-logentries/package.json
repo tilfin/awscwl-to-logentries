@@ -1,0 +1,17 @@
+{
+  "name": "cwl-to-logentries",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "kinesis-stream-lambda": "^0.7.2",
+    "le_node": "^1.6.5",
+    "promised-lifestream": "^0.2.0",
+    "through2": "^2.0.1"
+  }
+}

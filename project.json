@@ -1,0 +1,8 @@
+{
+  "name": "lambda-logentries",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::000000000000:role/lambda-logentries_lambda_function",
+  "environment": {}
+}

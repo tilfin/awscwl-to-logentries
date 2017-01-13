@@ -1,0 +1,52 @@
+{
+    "Records": [
+        {
+            "kinesis": {
+                "kinesisSchemaVersion": "1.0",
+                "partitionKey": "be19c517094e8ba03d1f7fcde1c10c4e",
+                "sequenceNumber": "49565835572342545914261768977061993750128752967462944770",
+                "data": "H4sIAAAAAAAAADVRTW/cIBT8KxaqlFaKbZ7BfPi2at1c0kvXp2ZXFTaw68YLFrDZRFH+e9kmReLAezNv3gyv6GRiVAczvKwGdejbZtj8/tFvt5u7Ht0if3Em5LIUjLZY4Ja3PJcXf7gL/rzmTq0usV7UadSqni5L+Tg7E+dYJl9mlHEpzCa+U7YpGHXKnAYDq7GsgdcPn+43Q78d9pgZgLG1rTGSWqAjldrScVKsAWo5ySPieYxTmNc0e/d9XpIJEXUPaFr8WV9Umo73/hDfG2j/T7F/ygtcQa9o1lmYNIITjiWDVjBO84tKzihQQoRkUnAAignNnUZy3jDBMb3eLJ7mHFRSp+wZMgCwgAYYpbf/A/zwVWJZAh8Ad43oKFQZ8muXBNbQYKVKPk1QAhhWKk1YabmlQCzRnOpduv5BH4IPXfFVOedTkQPTxRr8akJ6KW6sD72ajjeFt8XZaWNz2HrninxUKszz6kOK1VE5vZjKXM1XP83kg47VB7X4XD+pUCcVH+s5T3iu/sSOdSC+7Bx627/9BVzl3RgQAgAA",
+                "approximateArrivalTimestamp": 1474108123.264
+            },
+            "eventSource": "aws:kinesis",
+            "eventVersion": "1.0",
+            "eventID": "shardId-000000000000:49565835572342545914261768977061993750128752967462944770",
+            "eventName": "aws:kinesis:record",
+            "invokeIdentityArn": "arn:aws:iam::000000000000:role/lambda_basic_execution",
+            "awsRegion": "ap-northeast-1",
+            "eventSourceARN": "arn:aws:kinesis:ap-northeast-1:000000000000:stream/cloudwatch-logs-stream"
+        },
+        {
+            "kinesis": {
+                "kinesisSchemaVersion": "1.0",
+                "partitionKey": "be19c517094e8ba03d1f7fcde1c10c4e",
+                "sequenceNumber": "49565835572342545914261768977063202675948367596637650946",
+                "data": "H4sIAAAAAAAAAE2QzY7bMAyEXyUQeoxqUf/yLUDTvWwvjU9dB4Vs0amwjh1YSoJFkHevttsWuQ34DTkkb+SIKfkDNm8nJDX5smk2P79td7vN05asyXydcCllZ7VUzDJllCnlcT48LfP5VEjlr6ka/bELvuqvI32NE6aYaJ5pceGUl4jpo2WXF/TH0sMZ6Iq5Ckz18ul502x3zZ5pBOjUoBCdHEB20oVBdr3XHORgRBmRzl3ql3jKcZ6+xjHjkkj9QvpxPoerz/2v5/mQPgDZ/0ncXsoC76YbiaEEC26NMMxpUJZzyw1XTmjDbMkQQjEOVjOplAMpmRBGgXOsuEp4juVR2R/LzSCNBGaBg5Z8/e+Bf++izFEwDbCa21rCZy3hR5stC8CZ99T0PVAA1NQHoelgBgliEMHI0Obv2GO8YFjh+9716tZOq1VLXvFNtKQu6uLHMxa9/g/4A+CPAB5A0e10bydy399/A13FsS7xAQAA",
+                "approximateArrivalTimestamp": 1474108123.269
+            },
+            "eventSource": "aws:kinesis",
+            "eventVersion": "1.0",
+            "eventID": "shardId-000000000000:49565835572342545914261768977063202675948367596637650946",
+            "eventName": "aws:kinesis:record",
+            "invokeIdentityArn": "arn:aws:iam::000000000000:role/lambda_basic_execution",
+            "awsRegion": "ap-northeast-1",
+            "eventSourceARN": "arn:aws:kinesis:ap-northeast-1:000000000000:stream/cloudwatch-logs-stream"
+        },
+        {
+            "kinesis": {
+                "kinesisSchemaVersion": "1.0",
+                "partitionKey": "be19c517094e8ba03d1f7fcde1c10c4e",
+                "sequenceNumber": "49565835572342545914261768977064411601767982706848694274",
+                "data": "H4sIAAAAAAAAADVQy07DMBD8lcriWBPb8TO3SIReyik50VbIcZxi4SRV7BChqv+OoXDceezszhUMNgR9ts3XxYICPJVN+fZS1XW5q8AWTOto5wQrySlDEjHBRIL9dN7N03JJTKbXkHk9tJ3OzOrhhxttcAHGCSaVHePsbLhb6jhbPSQPQZhnSGVYZIeHfdlUdXNC3GLcsp5Zq2iPaUtV19PWaE4w7UWeVoSlDWZ2l+im8dn5aOcAigMwflq6VUfzvp/O4U6A029i9ZkO+BFdgetScE6kyAVSQimOcsIlpYgyoaigPE0C45xSRhRXggqZdIjkQjGSwqNLRUU9pJ9xkmMkMVFS5tv/Av/+gkhBLBqMCiILqh45z1+PUTLDTW8MFMZgiLHlULW8g6hrpVbaEoTQMV434zT2zvqu2IyL95vbcQS30+0b9eSHfKUBAAA=",
+                "approximateArrivalTimestamp": 1474108130.452
+            },
+            "eventSource": "aws:kinesis",
+            "eventVersion": "1.0",
+            "eventID": "shardId-000000000000:49565835572342545914261768977064411601767982706848694274",
+            "eventName": "aws:kinesis:record",
+            "invokeIdentityArn": "arn:aws:iam::000000000000:role/lambda_basic_execution",
+            "awsRegion": "ap-northeast-1",
+            "eventSourceARN": "arn:aws:kinesis:ap-northeast-1:000000000000:stream/cloudwatch-logs-stream"
+        }
+    ]
+}
